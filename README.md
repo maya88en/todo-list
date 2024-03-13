@@ -1,6 +1,15 @@
-# This project is done by lisening to a video provided by an Internship at LetsGrowMore 
+# This project is done by lisening to a video provided by an Internship at LetsGrowMore  
 
-The below are some notes and extentions added :
+# Project Live Link:
+
+https://todo-list-eight-orcin.vercel.app/
+
+# Author: Maya 
+I watched the video, step by step, added some VS Code extentions, solved issues and errors using Stackoverflow, Medium and others mentioned below. 
+
+The below notes are written by me using my own words inaddition to the video transcript.
+
+## The below are some notes and extentions added :
 
 ## Start
 create a todo-list repository on GitHub and then open on your VS code by Clone Repository, choose Github clone, search for repo name and choose todo-list.
