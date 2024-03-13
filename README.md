@@ -1,6 +1,6 @@
 # This project is done by lisening to a video provided by an Internship at LetsGrowMore 
 
-I had to stop the video, write the code, go search for error, and I wrote some notes:
+The below are some notes and extentions added :
 
 ## Start
 create a todo-list repository on GitHub and then open on your VS code by Clone Repository, choose Github clone, search for repo name and choose todo-list.
@@ -50,7 +50,7 @@ If it is not working, then install the React snippets extension in VSCode.
 (Note: I found this using: 
 https://stackoverflow.com/questions/68653611/rafce-react-js-shortcut-not-working-in-vscode)
 
-## In TodForm.js
+## In TodoForm.js
 rfc: 
 
 import React from 'react'
@@ -169,7 +169,7 @@ add these two lines:
 Close all open files and tabs in VSCode. Click on the menu options at the top of the window: File > Exit. Wait for the VSCode window to close completely. Once the window is fully closed, you can reopen VSCode by clicking on the VSCode icon on your desktop or by searching for it in your 
 
 
-## IN TodoList.js File 
+## In TodoList.js File 
 
 Go to TodoList.js to declare something:
 
