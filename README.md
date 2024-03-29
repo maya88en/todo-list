@@ -1,13 +1,11 @@
-# This project is done by lisening to a video provided by an Internship at LetsGrowMore  
+# LetsGrowMore Internship
 
-# Project Live Link:
+# Task 1
+
+# Live Link for Project: 
 
 https://todo-list-eight-orcin.vercel.app/
 
-# Author: Maya 
-I watched the video, step by step, added some VS Code extentions, solved issues and errors using Stackoverflow, Medium and others mentioned below. 
-
-The below notes are written by me using my own words inaddition to the video transcript.
 
 ## The below are some notes and extentions added :
 
@@ -69,11 +67,12 @@ export default function TodoForm() {
 return <div></div>;
 }
 
-Then we need to take the input with the help of the input element
+
+"Then we need to take the input with the help of the input element
 to create a state, we need to import a state from the react
 
 write import React, {useState} from 'react'
-then declare the state inside the function by the following : 
+then declare the state inside the function by the following : "
 
 ### Download the extention: ES7+ React/Redux/React-Native snippets
 
